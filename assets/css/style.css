@@ -60,3 +60,20 @@ hr {
 .mb-5 a {
       color: rgba(0,0,0,.9);
 }
+
+.section-row {
+   
+}
+
+.section-column {
+    background-color: rgba(63, 60, 60, 0.2);
+    height: 100%;
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: 700;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}

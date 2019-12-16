@@ -9,3 +9,5 @@ fixed bugs and tested initial pages to mobile devices sizes
 Added icons to links in nav bar
 ##created footer
 created footer for all pages including social links
+# created section in about me pages
+section divided in 3 columns containing text
