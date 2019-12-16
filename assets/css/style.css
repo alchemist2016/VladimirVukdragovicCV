@@ -4,7 +4,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    color: #fff;
+    color: #fafafa;
    
 
 }
@@ -33,9 +33,30 @@ hr {
     width: 50px;
 }
 
+.navbar {
+    color: #fafafa;
+}
 .navbar-brand {
     padding-left: 20px;
 }
 .navbar-nav {
     padding-left: 20px;
+}
+
+.page-footer {
+    font-size: 10px;
+    position: fixed;
+    width: 100%;
+    min-height: 50px;
+    bottom: 0;
+    background-color: #f8f9fa;
+    color: rgba(32, 2, 2, 0.9);
+    text-align: center;
+    height: 80px;
+    padding-top: 30px;
+    
+}
+
+.mb-5 a {
+      color: rgba(0,0,0,.9);
 }
