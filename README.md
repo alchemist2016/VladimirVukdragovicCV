@@ -11,3 +11,5 @@ Added icons to links in nav bar
 created footer for all pages including social links
 # created section in about me pages
 section divided in 3 columns containing text
+# update on About Me pages
+fixing bugs and organising the page
