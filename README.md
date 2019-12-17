@@ -2,7 +2,8 @@
 My personal CV
 
 #Initial commit
-created files and folders and cdn connections to bootstrap, google font, jquery, javascript
+created files and folders and cdn 
+connections to bootstrap, google font, jquery, javascript
 #Updated mobile testing
 fixed bugs and tested initial pages to mobile devices sizes
 #Updated nav-bar 
@@ -13,3 +14,9 @@ created footer for all pages including social links
 section divided in 3 columns containing text
 # update on About Me pages
 fixing bugs and organising the page
+# update on About Me page
+styling and organising the look
+of the page and also filling in the content.
+# testing
+Testing new additions to the web pages
+that they conform to multiple devices
