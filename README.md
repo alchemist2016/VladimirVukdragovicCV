@@ -25,7 +25,20 @@ created page and put image as background
 created form for contact with email
 # Created Skills/projects
 created page and fitted a background page
-
+# created skills cards and icons
+created skills icons and project icons linking to websites related
+#rosie picture
+Image credits
+Credit:ClassicStock / Masterfile
+Copyright:© ClassicStock / Masterfile
+#whiskey glass
+https://taylordmilestones.com/products/whiskey-glass-gift-set
+#all background pictures
+I have used Unsplash.com for my background pictures
+#skills logos
+I have used logos from wikipedia pages
+#GitHub
+I have added a GitHub logo as a link in a footer
 
 /*
 Haley Schafer Portfolio

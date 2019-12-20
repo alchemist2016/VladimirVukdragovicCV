@@ -14,7 +14,7 @@
 
 <body class="image-skills">
 	<!-- creating a navbar -->
-	<nav class="navbar navbar-expand-lg navbar-light bg-light ">
+	<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
 		<div class="container">
 			<a class="navbar-brand" href="index.html">Portfolio</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -29,7 +29,7 @@
 					<li class="nav-item">
 						<a class="nav-link" href="about.html"><i class="fas fa-graduation-cap"></i> About Me </a>
 					</li>
-                    <li class="nav-item">
+					<li class="nav-item">
 						<a class="nav-link" href="skills.html"><i class="fas fa-toolbox"></i> Skills/Projects </a>
 					</li>
 					<li class="nav-item">
@@ -37,18 +37,85 @@
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="assets/cv/VVCV.pdf"
-							target="_blank"><i class="fas fa-file-download"></i> CV  Download Link </a>
+							target="_blank"><i class="fas fa-file-download"></i> CV Download Link </a>
 					</li>
 				</ul>
 			</div>
 		</div>
 	</nav>
-	<!-- creating a container text on index page -->
+	<!-- creating a container cards on skills page -->
 	<section>
-    
-    </section>
+		<div class="container">
+			<div class="row" class="gallery">
+				<div class="col-md-4 mb-3">
+					<div class="card bg-transparent">
+						<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+							<img src="assets/images/html5.png" class="img-fluidmax-width: 100% height:auto d-flex align-self-center"/></a>
+							<div class="card-body">
+								<h5 class="card-title text-light align-text-center">HTML5</h5>
+							</div>
+					</div>
+				</div>
+				<div class="col-md-4 mb-3 mr-0">
+					<div class="card bg-transparent">
+						<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">
+							<img src="assets/images/css3-markup.jpg" class="img-fluidmax-width: 100% height:auto d-flex align-self-center"/></a>
+							<div class="card-body">
+								<h5 class="card-title text-light align-text-center">CSS3</h5>
+							</div>
+					</div>
+				</div>
+				<div class="col-md-4 mb-3 mr-0">
+					<div class="card bg-transparent">
+						<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank">
+							<img src="assets/images/javax.png" class="img-fluidmax-width: 100% height:auto d-flex align-self-center"/></a>
+							<div class="card-body">
+								<h5 class="card-title text-light align-text-center">Java</h5>
+							</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container -fluid">
+			<div class="row" id="bootom-gallery">
+				<div class="col-md-4 mb-3 mr-0">
+					<div class="card bg-transparent">
+						<a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)" target="_blank">
+							<img src="assets/images/bootstrap1.png" class="img-fluidmax-width: 100% height:auto d-flex align-self-center"/></a>
+							<div class="card-body">
+								<h5 class="card-title text-light align-text-center">Bootstrap</h5>
+							</div>
+					</div>
+				</div>
+				<div class="col-md-4 mb-3 mr-0">
+					<div class="card bg-transparent">
+						<a href="https://alchemist2016.github.io/bootstrap4/" target="_blank">
+							<img src="assets/images/whiskey2.png" class="img-fluidmax-width: 100% height:auto d-flex align-self-center"/></a>
+							<div class="card-body">
+								<h5 class="card-title text-light align-text-center">Whiskey Drop Project</h5>
+							</div>
+					</div>
+				</div>
+				<div class="col-md-4 mb-3 mr-0">
+					<div class="card bg-transparent">
+						<a href="https://alchemist2016.github.io/resume-project/" target="_blank">
+							<img src="assets/images/woman.jpg" class="img-fluid max-width: 100% height:auto d-flex align-self-center"/></a>
+							<div class="card-body">
+								<h5 class="card-title text-light align-text-center">Rosie Project</h5>
+							</div>
+					</div>
+				</div>
+			</div>
+		</div>
+        <div class="container-fluid d-flex p-2 bd-highlight justify-content-around">
+            <div class="skills-text ">
+                <p>What ever the mind can concieve, and believe, it can achieve! <i>-Napoleon Hill-</i></p>
+            </div>
+            </div>
+		</div>
+	</section>
 	<!-- Footer -->
-	<footer class="page-footer font-small cyan darken-3">
+	<footer class="page-footer font-small cyan darken-3" id="footer">
 
 		<!-- Footer Elements -->
 		<div class="container-fluid">
@@ -72,6 +139,10 @@
 						<!--Instagram-->
 						<a class="ins-ic" target="_blank" href="https://www.instagram.com/vladimirvukdragovic/">
 							<i class="fab fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x"> </i></a>
+                             <!--GitHub-->
+                        <a class="ins-ic" target="_blank" href="https://github.com/alchemist2016">
+							<i class="fab fa-github fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
+                            </a>
 					</div>
 				</div>
 				<!-- Grid column -->
