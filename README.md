@@ -39,6 +39,9 @@ I have used Unsplash.com for my background pictures
 I have used logos from wikipedia pages
 #GitHub
 I have added a GitHub logo as a link in a footer
+#Added libraries folder
+#Added welcoming text
+Added text to index.html page
 
 /*
 Haley Schafer Portfolio
