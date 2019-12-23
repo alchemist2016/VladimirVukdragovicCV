@@ -1,46 +1,49 @@
-# VladimirVukdragovicCV
-My personal CV
+# VladimirVukdragovicCV Portfolio
+ I have created this website to present to my future employer.
+ In this portfolio I have highlited my current skilla, some projects, as well as my CV.
 
-#Initial commit
+###Initial commit
 created files and folders and cdn 
 connections to bootstrap, google font, jquery, javascript
-#Updated mobile testing
+###Updated mobile testing
 fixed bugs and tested initial pages to mobile devices sizes
-#Updated nav-bar 
+###Updated nav-bar 
 Added icons to links in nav bar
-##created footer
+###Created footer
 created footer for all pages including social links
-# created section in about me pages
+###Created section in about me pages
 section divided in 3 columns containing text
-# update on About Me pages
+###Update on About Me pages
 fixing bugs and organising the page
-# update on About Me page
+###update on About Me page
 styling and organising the look
 of the page and also filling in the content.
-# testing
+###Testing
 Testing new additions to the web pages
 that they conform to multiple devices
-# Created Contact page
+###Created Contact page
 created page and put image as background
 created form for contact with email
-# Created Skills/projects
+##Created Skills/projects page
 created page and fitted a background page
-# created skills cards and icons
+##Created skills cards and icons
 created skills icons and project icons linking to websites related
-#rosie picture
+###Rosie project picture
 Image credits
 Credit:ClassicStock / Masterfile
 Copyright:© ClassicStock / Masterfile
-#whiskey glass
+###Whiskey glass / Whiskey Drop Project
+Image used from:
 https://taylordmilestones.com/products/whiskey-glass-gift-set
-#all background pictures
+###All background pictures:
 I have used Unsplash.com for my background pictures
-#skills logos
+###Skills logos
 I have used logos from wikipedia pages
 #GitHub
 I have added a GitHub logo as a link in a footer
 #Added libraries folder
-#Added welcoming text
+Contains copyright data about Languages and Frameworks used in my project
+###Added Welcoming Text
 Added text to index.html page
 
 /*
