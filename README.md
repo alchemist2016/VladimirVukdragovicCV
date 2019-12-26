@@ -45,6 +45,14 @@ Added text to index.html page
 # Separated projects from skills
 added skills logos to my About me page
 and kept projects page separate
+# Removed personal information
+Redundant information
+# Merged about me and skills
+Made more sense to have them on one page
+#Text field
+Added text area field in contact me page
+# Corrected syntax errors in about me page
+corrected errors reported by W3C Validator
 
 /*
 Haley Schafer Portfolio
