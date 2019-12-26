@@ -42,6 +42,9 @@ I have added a GitHub logo as a link in a footer
 #Added libraries folder
 #Added welcoming text
 Added text to index.html page
+# Separated projects from skills
+added skills logos to my About me page
+and kept projects page separate
 
 /*
 Haley Schafer Portfolio
