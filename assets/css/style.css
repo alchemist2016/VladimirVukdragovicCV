@@ -142,6 +142,11 @@ element.style {
 .gallery {
     margin-top: 10px;
 }
+
+#bottom-galery {
+    margin-bottom: 60px;
+}
+
 /* --------------------------------------Form Contact page  */
 
 .signup-form{
@@ -151,7 +156,7 @@ element.style {
   
 }
 .form-group {
-    margin-bottom: 5rem;
+    margin-bottom: 40px;
 }
 .signup-form  h2 {
   color: #fafafa;
@@ -184,6 +189,7 @@ form.signup-form {
   background-color: #530505;
   color: #fafafa;
   display: block;
+  margin-bottom: 200px;
 }
 
 .join-button:hover{
@@ -235,7 +241,7 @@ element.style {
 }
 
 .projects-text p{
-    margin-top: 100px;
+    margin-top: 30px;
     margin-bottom: 1rem;
     text-align: center;
     font-size: 30px;
