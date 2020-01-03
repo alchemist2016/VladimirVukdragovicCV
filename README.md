@@ -1,4 +1,3 @@
-
 # Vladimir Vukdragovic Portfolio  
 This is my first multi-page website representing my portfolio.
 My goal with this project is to attract attention of my future employers and recruiters and explain who I am 
@@ -24,10 +23,10 @@ In the footer I haved included links to my LinkedIn profile, Facebook profile an
 As a separate link in my nav-bar I included my downloadable PDF version of my CV with a download link.
 They all link to a new page opening thus keeping the integrity of original website and ease of use.
 ### Skeleton
-[Home wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/home.jpg)
-[About Me wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/about_me.jpg)
-[Projects wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/projects.jpg)
-[Contact wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/contact.jpg)
+-[Home wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/home.jpg)
+-[About Me wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/about_me.jpg)
+-[Projects wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/projects.jpg)
+-[Contact wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/contact.jpg)
 ## Technologies  
 1.HTML
 2.CSS3
@@ -51,4 +50,3 @@ All photos are taken from Unsplash.com, free image library. Images for the proje
 ## Acknowledgements  
 I have used some generic code from Bootstrap 4 website and then significantly modified to fit the wireframes and original ideas.
 I have used media querie from Stack Overflow tutorial [here](https://stackoverflow.com/questions/tagged/media-queries).
-
