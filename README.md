@@ -13,7 +13,8 @@
 ### User stories
     Within this project I wanted to provide clarity of purpose, natural flow of structure, and easy access to 
     further informations.
-    This website is mainly designed for prospective employers and recruiters. I believe that people in these categories have time restrictions and first impression mindset. Therefore I was building this website with "less is better" thinking leaving room for further contact if desired so by targeted audience.
+    This website is mainly designed for prospective employers and recruiters. I believe that people in these categories have time restrictions and first impression mindset. 
+    Therefore I was building this website with "less is better" thinking leaving room for further contact if desired so by targeted audience.
 ### Strategy
     My goal was appealing website which provides easy as possible access to information and keeping it minimalist 
     and user-friendly.
