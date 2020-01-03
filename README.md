@@ -23,7 +23,7 @@ In the footer I haved included links to my LinkedIn profile, Facebook profile an
 As a separate link in my nav-bar I included my downloadable PDF version of my CV with a download link.
 They all link to a new page opening thus keeping the integrity of original website and ease of use.
 ### Skeleton
-1.[Home wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/home.jpg)
+1.[Home wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/home.jpg)  
 2.[About Me wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/about_me.jpg)
 3.[Projects wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/projects.jpg)
 4.[Contact wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/contact.jpg)
