@@ -50,3 +50,4 @@ All photos are taken from Unsplash.com, free image library. Images for the proje
 ## Acknowledgements  
 I have used some generic code from Bootstrap 4 website and then significantly modified to fit the wireframes and original ideas.
 I have used media querie from Stack Overflow tutorial [here](https://stackoverflow.com/questions/tagged/media-queries).
+The projects represented in my portfolio are the projects done as a part of course material from [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=a%26c_BR_IRL_Code_Institute&utm_source=adwords&utm_medium=ppc&hsa_net=adwords&hsa_tgt=kwd-319867646331&hsa_ad=406957632915&hsa_acc=8983321581&hsa_grp=56427889338&hsa_mt=e&hsa_cam=1378516521&hsa_kw=code%20institute&hsa_ver=3&hsa_src=g&gclid=EAIaIQobChMIttL-2tTz5gIVjbHtCh19kAnpEAAYASAAEgL4ePD_BwE).
