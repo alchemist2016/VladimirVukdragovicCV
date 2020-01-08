@@ -28,9 +28,9 @@ They all link to a new page opening thus keeping the integrity of original websi
 3.[Projects wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/projects.jpg)  
 4.[Contact wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/contact.jpg)  
 ## Technologies  
-1.HTML
-2.CSS3
-3.Bootstrap(4.4.1)
+1.HTML  
+2.CSS3  
+3.Bootstrap(4.4.1)  
 ## Features  
 The nav-bar and footer are used from Bootstrap with extra JavaScript for a toggle button in nav-bar. Navbar is sticky to the top at any size. Footer disapears at About Me and Projects pages to allow more room on smaller devices.
 ### Features left to implement
