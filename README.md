@@ -24,13 +24,13 @@ As a separate link in my nav-bar I included my downloadable PDF version of my CV
 They all link to a new page opening thus keeping the integrity of original website and ease of use.
 ### Skeleton
 1.[Home wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/home.jpg)  
-2.[About Me wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/about_me.jpg)  
+2.[Expertise wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/expertise.jpg)  
 3.[Projects wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/projects.jpg)  
 4.[Contact wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/contact.jpg)  
 ## Technologies  
-1.HTML
-2.CSS3
-3.Bootstrap(4.4.1)
+1.HTML  
+2.CSS3  
+3.Bootstrap(4.4.1)  
 ## Features  
 The nav-bar and footer are used from Bootstrap with extra JavaScript for a toggle button in nav-bar. Navbar is sticky to the top at any size. Footer disapears at About Me and Projects pages to allow more room on smaller devices.
 ### Features left to implement
@@ -44,9 +44,10 @@ During the test phase I realised that some of the text rendered on pages was dif
 This site is hosted using GitHub pages, deployed directly from the master branch. Updates are automatic with new commits. In order to deploy correctly on GitHub pages, the landing page must be named index.html.
 ## Credits  
 ### Content
-All content in About me page was written by me.
+All content in Expertise page was written by me.
 ### Media
 All photos are taken from Unsplash.com, free image library. Images for the projects are landing pages of those projects.
 ## Acknowledgements  
 I have used some generic code from Bootstrap 4 website and then significantly modified to fit the wireframes and original ideas.
 I have used media querie from Stack Overflow tutorial [here](https://stackoverflow.com/questions/tagged/media-queries).
+The projects represented in my portfolio are the projects done as a part of course material from [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=a%26c_BR_IRL_Code_Institute&utm_source=adwords&utm_medium=ppc&hsa_net=adwords&hsa_tgt=kwd-319867646331&hsa_ad=406957632915&hsa_acc=8983321581&hsa_grp=56427889338&hsa_mt=e&hsa_cam=1378516521&hsa_kw=code%20institute&hsa_ver=3&hsa_src=g&gclid=EAIaIQobChMIttL-2tTz5gIVjbHtCh19kAnpEAAYASAAEgL4ePD_BwE).
