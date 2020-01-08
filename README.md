@@ -24,7 +24,7 @@ As a separate link in my nav-bar I included my downloadable PDF version of my CV
 They all link to a new page opening thus keeping the integrity of original website and ease of use.
 ### Skeleton
 1.[Home wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/home.jpg)  
-2.[About Me wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/about_me.jpg)  
+2.[Expertise wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/expertise.jpg)  
 3.[Projects wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/projects.jpg)  
 4.[Contact wireframe](https://alchemist2016.github.io/VladimirVukdragovicCV/assets/wireframes/contact.jpg)  
 ## Technologies  
@@ -44,7 +44,7 @@ During the test phase I realised that some of the text rendered on pages was dif
 This site is hosted using GitHub pages, deployed directly from the master branch. Updates are automatic with new commits. In order to deploy correctly on GitHub pages, the landing page must be named index.html.
 ## Credits  
 ### Content
-All content in About me page was written by me.
+All content in Expertise page was written by me.
 ### Media
 All photos are taken from Unsplash.com, free image library. Images for the projects are landing pages of those projects.
 ## Acknowledgements  
